@@ -8,4 +8,4 @@ st.sidebar.image("https://seeklogo.com/images/E/ecole-hassania-des-travaux-publi
 st.sidebar.header("Master Cloud Computing")
 
 
-st.file_uploader()
+st.file_uploader('load an image', type= ['png', 'jpg', 'jpeg'])
